@@ -1,0 +1,17 @@
+kagglehub
+pandas
+matplotlib
+seaborn
+python-dotenv
+langchain-community
+langchain-opencv
+langchain-chroma
+transformers
+gradio
+notebook
+ipywidgets
+langchain
+google-generativeai
+langchain_google_genai
+langchain-core
+tensorflow
